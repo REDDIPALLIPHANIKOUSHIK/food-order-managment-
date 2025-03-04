@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head> </head>
+
+<body>
+    <div class="bg-container">
+        <div class="card">
+            <h1 class="main-heading">FOOD ORDER MANAGEMENT</h1>
+            <p class="paragraph">delicious food available here</p>
+            <button class="button">order now</button>
+        </div>
+    </div>
+</body>
+
+</html>
